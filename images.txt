@@ -2,3 +2,4 @@ tomcat
 nginx
 openjdk:24-slim
 mysql:8.0.38
+redis
